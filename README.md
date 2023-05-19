@@ -1,3 +1,3 @@
 # Prova
 
-<img width="950" alt="foto1" src="https://github.com/Bianca-Cassemiro/prova/assets/99203402/d8aa3284-dbd5-4c30-94be-e6a91031b8d6">
+<img width="959" alt="foto2" src="https://github.com/Bianca-Cassemiro/prova/assets/99203402/d80fa332-daac-4431-949b-e1356fbee2d8">
